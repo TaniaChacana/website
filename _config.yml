@@ -1,0 +1,16 @@
+# Permalinks
+
+# Setup
+title: Tania Chacana
+description: Type and graphic design portfolio of Tania Chacana
+url: https://www.taniachacana.com
+baseurl: ""
+
+# About/contact
+author:
+  name: Tania Chacana
+  url: https://www.taniachacana.com
+  email: tania.chacana@gmail.com
+
+# Build settings
+markdown: kramdown

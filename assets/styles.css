@@ -1,0 +1,126 @@
+@supports (font-variation-settings: initial) {
+  @font-face {
+      font-display: block;
+      font-family: "AdapterMonoVF";
+      font-weight: 100 900;
+      font-style: normal;
+      src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+  }
+}
+
+
+/* General */
+
+html, body {
+  background: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "AdapterMonoVF", monospace;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 1.33em;
+  color: #000;
+}
+
+li, p, h1, h2, h3, h4, h5 {
+}
+
+section {
+  padding: 3em;
+  width: auto;
+}
+
+h1, h2, h3, h4 {
+  font-size: 100%;
+  font-weight: 800;
+  margin: 0 0 0.5em 0;
+}
+
+h1 strong {
+  font-weight: 500;
+  font-style: normal;
+}
+
+h3 {
+  clear: both;
+  float: left;
+  width: 15%;
+  margin: 0;
+  margin-top: 10em;
+  scroll-behavior: smooth;
+  scroll-margin-block-start: 5em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+p.clear {
+  clear: both;
+}
+
+p.copyright {
+  float: none;
+  clear: both;
+  margin: 5em 0;
+}
+
+p.previews {
+  float: left;
+  margin: 10em 0 0 0;
+  width: 80%;
+}
+
+img {
+  background: #eee;
+  width: 100%;
+  max-width: 1200px;
+  border-radius: 4em;
+  margin: 0 0 2em 0;
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-feature-settings: "ss07" 1;
+  font-variation-settings: "slnt" -13;
+}
+
+ul {
+  padding-left: 0;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+  border-radius: 5px;
+  padding: 0 0.2em;
+}
+
+a:hover {
+  // background-color: rgba(34, 47, 170, 0.1);
+  color: #222faa;
+}
+
+.hide {
+  display: none;
+}
+
+/* Responsive */
+
+@media (max-width: 1150px) {
+  h3, p.previews {
+    width: auto;
+    float: none;
+    clear: both;
+    margin: 2em 0 0 0;
+    padding: 0;
+  }
+}

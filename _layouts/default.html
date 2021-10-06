@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+    <title>{{ title }}</title>
+    
+    <meta name="description" content="{{ description }}" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+    <meta name="author" content="{{ author }}" />
+
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ sharing | absolute_url }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:description" content="{{ description }}" />
+    <meta name="twitter:image" content="{{ sharing | absolute_url }}" />
+
+    <link rel="stylesheet" href="{{ 'assets/styles.css' | relative_url }}">
+
+    <link rel="me" href="https://taniachacana.com/">
+    <link rel="me" href="https://twitter.com/taniachacana">
+    
+    <!-- analytics -->
+    <script defer data-domain="taniachacana.com" src="https://plausible.io/js/plausible.js"></script>
+
+</head>
+
+<body>
+  <section>
+    {{ content }}
+    <p class="clear"></p>
+    <p class="copyright">Copyright © 2021 Tania Chacana. All rights reserved.</p>
+  </section>
+</body>
+</html>
