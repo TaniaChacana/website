@@ -4,7 +4,7 @@
 title: Tania Chacana
 description: Type and graphic design portfolio of Tania Chacana
 url: https://www.taniachacana.com
-baseurl: "website"
+baseurl: "/website"
 
 # About/contact
 author:
