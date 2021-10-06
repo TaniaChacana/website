@@ -8,10 +8,10 @@ title: Tania Chacana – type & graphic design
 # Tania Chacana __type & graphic design__
 {: #top}
 
-<tania.chacana@gmail.com>  
-[@taniachacana](http://twitter.com/taniachacana)
+Email: <tania.chacana@gmail.com>  
+Twitter: [@taniachacana](http://twitter.com/taniachacana)
 
-Projects __[Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)__
+Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
 
 ### Girandengo
 
