@@ -12,6 +12,7 @@ Email: <tania.chacana@gmail.com>
 Twitter: [@taniachacana](http://twitter.com/taniachacana)
 
 Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
+{: .menu}
 
 ### Girandengo
 
@@ -78,3 +79,6 @@ Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Ita
 ![](/assets/portfolio/portfolio_kuppa_4.svg)
 ![](/assets/portfolio/portfolio_kuppa_5.svg)
 {: .previews}
+
+Copyright © 2021 Tania Chacana. All rights reserved.
+{:.copyright}

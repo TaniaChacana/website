@@ -13,6 +13,7 @@
 
 html, body {
   background: #fff;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -50,31 +51,29 @@ h3 {
   clear: both;
   float: left;
   width: 15%;
-  margin: 8em 0 0 0;
+  margin: 0;
   padding: 2em 0 1em 0;
-  scroll-behavior: smooth;
-  scroll-margin-block-start: 2em;
 }
 
 p {
   margin: 1em 0;
 }
 
-p.clear {
-  clear: both;
-}
-
-p.copyright {
-  float: none;
-  clear: both;
-  margin: 5em 0;
+p.menu {
+  margin: 1em 0 8em 0;
 }
 
 p.previews {
   float: left;
-  margin: 8em 0 0 0;
+  margin: 0;
+  margin-bottom: 8em;
   padding: 2em 0 0 0;
   width: 80%;
+}
+
+p.copyright {
+  width: 100%;
+  clear: both;
 }
 
 img {
@@ -84,6 +83,10 @@ img {
   border-radius: 4em;
   margin: 0 0 2em 0;
   padding: 0;
+}
+
+img:last-of-type {
+  clear: both;
 }
 
 strong {
@@ -104,14 +107,13 @@ a, a:visited {
   text-decoration: underline;
   border-radius: 5px;
   padding: 0 0.2em;
+  font-weight: 500;
 }
 
 a:hover {
-  background-color: rgba(34, 47, 170, 0.05);
-}
-
-.hide {
-  display: none;
+  /* background-color: rgba(34, 47, 170, 0.05); */
+  font-weight: 800;
+  transition: 500ms ease;
 }
 
 /* Responsive */
@@ -123,5 +125,9 @@ a:hover {
     clear: both;
     margin: 2em 0 0 0;
     padding: 0;
+  }
+
+  img {
+    border-radius: 3em;
   }
 }
