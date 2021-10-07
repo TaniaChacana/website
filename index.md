@@ -13,7 +13,7 @@ Twitter: [@taniachacana](http://twitter.com/taniachacana)
 
 Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
 
-### Girandengo 
+### Girandengo
 
 ![](/assets/portfolio/portfolio_girandengo_1.svg)
 ![](/assets/portfolio/portfolio_girandengo_2.svg)
