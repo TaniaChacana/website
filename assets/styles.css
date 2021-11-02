@@ -77,7 +77,7 @@ p.copyright {
 }
 
 img {
-  background: rgb(0, 0, 0);
+  background: #eee;
   width: 100%;
   max-width: 1200px;
   border-radius: 4em;
