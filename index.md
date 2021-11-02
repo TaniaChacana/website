@@ -51,7 +51,6 @@ Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Ita
 ![](/assets/portfolio/portfolio_mila_1.svg)
 ![](/assets/portfolio/portfolio_mila_2.svg)
 ![](/assets/portfolio/portfolio_mila_3.svg)
-![](/assets/portfolio/portfolio_mila_4.svg)
 ![](/assets/portfolio/portfolio_mila_5.svg)
 {: .previews}
 
