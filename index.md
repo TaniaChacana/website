@@ -32,6 +32,9 @@ Uncomment to put project description here
 
 ### Uomo
 
+designed with Miguel Hernández
+{: .description}
+
 ![](/assets/portfolio/portfolio_uomo_1.svg)
 ![](/assets/portfolio/portfolio_uomo_2.svg)
 ![](/assets/portfolio/portfolio_uomo_3.svg)
@@ -43,6 +46,9 @@ Uncomment to put project description here
 
 ### ABC Normal
 
+designed with Miguel Hernández
+{: .description}
+
 ![](/assets/portfolio/portfolio_abc-normal_1.svg)
 ![](/assets/portfolio/portfolio_abc-normal_2.svg)
 ![](/assets/portfolio/portfolio_abc-normal_3.svg)
@@ -53,6 +59,9 @@ Uncomment to put project description here
 {: .top}
 
 ### Italian
+
+work in progress
+{: .description}
 
 ![](/assets/portfolio/portfolio_italian_1.svg)
 ![](/assets/portfolio/portfolio_italian_2.svg)
@@ -87,6 +96,9 @@ Uncomment to put project description here
 
 ### Polca
 
+custom font for a shoe maker’s visual identity
+{: .description}
+
 ![](/assets/portfolio/portfolio_polca_1.svg)
 ![](/assets/portfolio/portfolio_polca_2.svg)
 ![](/assets/portfolio/portfolio_polca_3.svg)
@@ -97,6 +109,9 @@ Uncomment to put project description here
 {: .top}
 
 ### Kuppa
+
+designed at the University of Reading
+{: .description}
 
 ![](/assets/portfolio/portfolio_kuppa_1.svg)
 ![](/assets/portfolio/portfolio_kuppa_2.svg)
