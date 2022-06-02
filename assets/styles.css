@@ -3,7 +3,7 @@
       font-display: block;
       font-family: "AdapterMonoVF";
       font-weight: 100 900;
-      font-style: light;
+      font-style: normal;
       src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
   }
 }
@@ -20,8 +20,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "AdapterMonoVF", monospace;
-  font-style: normal;
-  font-weight: 500;
+  font-style: light;
+  font-weight: 250;
   font-size: 14px;
   letter-spacing: 0;
   line-height: 1.33em;
