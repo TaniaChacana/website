@@ -40,7 +40,7 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 ![](/assets/portfolio/portfolio_uomo_2.svg)
 ![](/assets/portfolio/portfolio_uomo_3.svg)
 ![](/assets/portfolio/portfolio_uomo_4.svg)
-{: .bio}
+{: .previews}
 
 [↑](#top)
 {: .top}
@@ -124,7 +124,7 @@ designed at the University of Reading
 ### Bio
 
 Tania Chacana is a typeface designer and art director from Santiago (Chile). After studying graphic design at the Universidad Diego Portales, she moved to Argentina to further pursue her fascination with letter shapes at the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
-{: .previews}
+{: .bio}
 
 [↑](#top)
 {: .top}
