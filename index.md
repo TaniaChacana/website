@@ -10,6 +10,7 @@ title: Tania Chacana – type & graphic design
 
 Email: <tania.chacana@gmail.com>  
 Twitter: [@taniachacana](http://twitter.com/taniachacana)
+[Bio](#bio)
 
 Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
 {: .menu}
@@ -122,6 +123,10 @@ designed at the University of Reading
 
 [↑](#top)
 {: .top}
+
+### Bio
+
+Tania Chacana is a typeface designer and art director from Santiago (Chile). After studying graphic design at the Universidad Diego Portales, she moved to Argentina to further pursue her fascination with letter shapes at the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
 
 Copyright © 2021 Tania Chacana. All rights reserved.
 {:.copyright}
