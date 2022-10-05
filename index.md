@@ -9,7 +9,7 @@ title: Tania Chacana – type & graphic design
 {: #top}
 
 Email: <tania.chacana@gmail.com>  
-Twitter: [@taniachacana](http://twitter.com/taniachacana)
+Twitter: [@taniachacana](http://twitter.com/taniachacana)  
 [Bio](#bio)
 
 Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
@@ -40,7 +40,7 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 ![](/assets/portfolio/portfolio_uomo_2.svg)
 ![](/assets/portfolio/portfolio_uomo_3.svg)
 ![](/assets/portfolio/portfolio_uomo_4.svg)
-{: .previews}
+{: .bio}
 
 [↑](#top)
 {: .top}

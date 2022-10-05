@@ -63,7 +63,7 @@ h3,
 
 /* If a description was found before the previews, offset the previews to the
 top to be aligned with the headline again */
-.description + .previews {
+.description + .previews, .description + .bio {
   margin-top: -4em;
 }
 
@@ -87,12 +87,16 @@ p.menu {
   margin: 1em 0 8em 0;
 }
 
-p.previews {
+p.previews, p.bio {
   float: left;
   margin: 0;
   margin-bottom: 8em;
   padding: 2em 0 0 0;
   width: 80%;
+}
+
+p.bio {
+  width: 60%;
 }
 
 p.copyright {
@@ -143,7 +147,7 @@ a:hover {
 /* Responsive */
 
 @media (max-width: 1150px) {
-  h3, p.previews {
+  h3, p.previews, p.bio {
     width: auto;
     float: none;
     clear: both;
