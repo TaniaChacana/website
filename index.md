@@ -121,12 +121,13 @@ designed at the University of Reading
 ![](/assets/portfolio/portfolio_kuppa_5.svg)
 {: .previews}
 
-[↑](#top)
-{: .top}
-
 ### Bio
 
 Tania Chacana is a typeface designer and art director from Santiago (Chile). After studying graphic design at the Universidad Diego Portales, she moved to Argentina to further pursue her fascination with letter shapes at the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
+{: .previews}
+
+[↑](#top)
+{: .top}
 
 Copyright © 2021 Tania Chacana. All rights reserved.
 {:.copyright}
