@@ -12,8 +12,10 @@ Email: <tania.chacana@gmail.com>
 Twitter: [@taniachacana](http://twitter.com/taniachacana)  
 [Bio](#bio)
 
-Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Italian](#italian) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
+Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Nova Caps](#nova-caps) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
 {: .menu}
+
+Licence requests via email.
 
 ### Girandengo
 
@@ -59,15 +61,16 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Italian
+### Nova Caps
 
-work in progress
+(formerly Italian)
+[available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
 {: .description}
 
-![](/assets/portfolio/portfolio_italian_1.svg)
-![](/assets/portfolio/portfolio_italian_2.svg)
-![](/assets/portfolio/portfolio_italian_3.svg)
-![](/assets/portfolio/portfolio_italian_4.svg)
+![](/assets/portfolio/portfolio_nova-caps_1.svg)
+![](/assets/portfolio/portfolio_nova-caps_2.svg)
+![](/assets/portfolio/portfolio_nova-caps_3.svg)
+![](/assets/portfolio/portfolio_nova-caps_4.svg)
 {: .previews}
 
 [↑](#top)
