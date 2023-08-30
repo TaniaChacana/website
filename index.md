@@ -14,7 +14,7 @@ Twitter: [@taniachacana](http://twitter.com/taniachacana)
 
 Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Nova Caps](#nova-caps) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
 
-Licence requests via email.
+Licence requests via email, unless stated otherwise below
 {: .menu}
 
 ### Girandengo
