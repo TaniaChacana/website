@@ -35,7 +35,7 @@ Uncomment to put project description here
 
 ### Uomo
 
-designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
+Published by A.B.C. (Alphabets by Chileans)
 {: .description}
 
 ![](/assets/portfolio/portfolio_uomo_1.svg)
@@ -49,7 +49,7 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 
 ### ABC Normal
 
-designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
+Published by A.B.C. (Alphabets by Chileans)
 {: .description}
 
 ![](/assets/portfolio/portfolio_abc-normal_1.svg)
