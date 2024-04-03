@@ -100,7 +100,7 @@ Published by A.B.C. (Alphabets by Chileans)
 
 ### Polca
 
-custom font for a shoe maker’s visual identity
+custom font / visual identity
 {: .description}
 
 ![](/assets/portfolio/portfolio_polca_1.svg)
