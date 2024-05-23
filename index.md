@@ -19,7 +19,7 @@ TYPEFACES
 [MILA](#mila) 
 [READER](#reader) 
 [POLCA](#polca) 
-[Aino](#aino)
+[AINO](#aino)
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
