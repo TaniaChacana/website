@@ -19,7 +19,7 @@ TYPEFACES
 [MILA](#mila) 
 [READER](#reader) 
 [POLCA](#polca) 
-[KUPPA](#kuppa)
+[Aino](#aino)
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
@@ -119,7 +119,7 @@ custom font / visual identity
 [↑](#top)
 {: .top}
 
-### Kuppa
+### Aino
 
 designed at the University of Reading
 {: .description}
