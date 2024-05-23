@@ -24,6 +24,35 @@ TYPEFACES
 Licence requests via email, unless stated otherwise below
 {: .menu}
 
+### Nova Caps
+
+(formerly Italian)
+[available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
+{: .description}
+
+![](/assets/portfolio/portfolio_nova-caps_1.svg)
+![](/assets/portfolio/portfolio_nova-caps_2.svg)
+![](/assets/portfolio/portfolio_nova-caps_3.svg)
+![](/assets/portfolio/portfolio_nova-caps_4.svg)
+{: .previews}
+
+[↑](#top)
+{: .top}
+
+### ABC Normal
+
+Published by A.B.C. (Alphabets by Chileans)
+{: .description}
+
+![](/assets/portfolio/portfolio_abc-normal_1.svg)
+![](/assets/portfolio/portfolio_abc-normal_2.svg)
+![](/assets/portfolio/portfolio_abc-normal_3.svg)
+![](/assets/portfolio/portfolio_abc-normal_4.svg)
+{: .previews}
+
+[↑](#top)
+{: .top}
+
 ### Girandengo
 
 <!--
@@ -49,35 +78,6 @@ Published by A.B.C. (Alphabets by Chileans)
 ![](/assets/portfolio/portfolio_uomo_2.svg)
 ![](/assets/portfolio/portfolio_uomo_3.svg)
 ![](/assets/portfolio/portfolio_uomo_4.svg)
-{: .previews}
-
-[↑](#top)
-{: .top}
-
-### ABC Normal
-
-Published by A.B.C. (Alphabets by Chileans)
-{: .description}
-
-![](/assets/portfolio/portfolio_abc-normal_1.svg)
-![](/assets/portfolio/portfolio_abc-normal_2.svg)
-![](/assets/portfolio/portfolio_abc-normal_3.svg)
-![](/assets/portfolio/portfolio_abc-normal_4.svg)
-{: .previews}
-
-[↑](#top)
-{: .top}
-
-### Nova Caps
-
-(formerly Italian)
-[available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
-{: .description}
-
-![](/assets/portfolio/portfolio_nova-caps_1.svg)
-![](/assets/portfolio/portfolio_nova-caps_2.svg)
-![](/assets/portfolio/portfolio_nova-caps_3.svg)
-![](/assets/portfolio/portfolio_nova-caps_4.svg)
 {: .previews}
 
 [↑](#top)
