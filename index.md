@@ -11,15 +11,15 @@ title: Tania Chacana – type & graphic design
 Email: <tania.chacana@gmail.com>  
 [Bio](#bio)
 
-Typefaces
-[Girandengo](#girandengo) 
-[Uomo](#uomo) 
-[ABC Normal](#abc-normal) 
-[Nova Caps](#nova-caps) 
-[Mila](#mila) 
-[Reader](#reader) 
-[Polca](#polca) 
-[Kuppa](#kuppa)
+TYPEFACES
+[GIRANDENGO](#girandengo) 
+[UOMO](#uomo) 
+[ABC NORMAL](#abc-normal) 
+[NOVA CAPS](#nova-caps) 
+[MILA](#mila) 
+[READER](#reader) 
+[POLCA](#polca) 
+[KUPPA](#kuppa)
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
