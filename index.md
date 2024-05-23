@@ -21,7 +21,7 @@ TYPEFACES
   [POLCA](#polca)  
   [AINO](#aino)  
 
-[INFO](#bio)
+
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
@@ -133,7 +133,7 @@ designed at the University of Reading
 ![](/assets/portfolio/portfolio_kuppa_5.svg)
 {: .previews}
 
-### INFORMATION
+### BIO
 
 Typeface designer and art director born in Santiago (Chile). Following her BA in graphic design at the Universidad Diego Portales (Chile), she moved to Argentina to further pursue the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
 {: .bio}
