@@ -11,7 +11,7 @@ title: TANIA CHACANA – TYPE & GRAPHIC DESIGN
 EMAIL: <TANIA.CHACANA@GMAIL.COM>  
 [BIO](#bio)
 
-TYPEFACES
+TYPEFACES  
 [NOVA CAPS](#nova-caps)  
 [ABC NORMAL](#abc-normal)  
 [GIRANDENGO](#girandengo)   
