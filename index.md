@@ -24,7 +24,7 @@ TYPEFACES
 Licence requests via email, unless stated otherwise below
 {: .menu}
 
-### Nova Caps
+### NOVA CAPS
 
 (formerly Italian)
 [available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
@@ -39,7 +39,7 @@ Licence requests via email, unless stated otherwise below
 [↑](#top)
 {: .top}
 
-### ABC Normal
+### ABC NORMAL
 
 Published by A.B.C. (Alphabets by Chileans)
 {: .description}
@@ -53,7 +53,7 @@ Published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Girandengo
+### GIRANDENGO
 
 <!--
 Uncomment to put project description here
@@ -69,7 +69,7 @@ Uncomment to put project description here
 [↑](#top)
 {: .top}
 
-### Uomo
+### UOMO
 
 Published by A.B.C. (Alphabets by Chileans)
 {: .description}
@@ -83,7 +83,7 @@ Published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Mila
+### MILA
 
 ![](/assets/portfolio/portfolio_mila_1.svg)
 ![](/assets/portfolio/portfolio_mila_2.svg)
@@ -94,7 +94,7 @@ Published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Reader
+### READER
 
 ![](/assets/portfolio/portfolio_reader_1.svg)
 ![](/assets/portfolio/portfolio_reader_2.svg)
@@ -105,7 +105,7 @@ Published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Polca
+### POLCA
 
 custom font / visual identity
 {: .description}
@@ -119,7 +119,7 @@ custom font / visual identity
 [↑](#top)
 {: .top}
 
-### Aino
+### AINO
 
 designed at the University of Reading
 {: .description}
@@ -131,7 +131,7 @@ designed at the University of Reading
 ![](/assets/portfolio/portfolio_kuppa_5.svg)
 {: .previews}
 
-### Bio
+### BIO
 
 Typeface designer and art director born in Santiago (Chile). Following her BA in graphic design at the Universidad Diego Portales (Chile), she moved to Argentina to further pursue the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
 {: .bio}
