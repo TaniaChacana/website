@@ -9,7 +9,6 @@ title: Tania Chacana – type & graphic design
 {: #top}
 
 Email: <tania.chacana@gmail.com>  
-Twitter: [@taniachacana](http://twitter.com/taniachacana)  
 [Bio](#bio)
 
 Typefaces
