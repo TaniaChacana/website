@@ -5,11 +5,11 @@ home: True
 title: Tania Chacana – type & graphic design
 ---
 
-# Tania Chacana __type & graphic design__
+# TANIA CHACANA __TYPE & GRAPHIC DESIGN__
 {: #top}
 
-Email: <tania.chacana@gmail.com>  
-[Bio](#bio)
+EMAIL: <TANIA.CHACANA@GMAIL.COM>  
+[BIO](#bio)
 
 TYPEFACES
 [GIRANDENGO](#girandengo) 
