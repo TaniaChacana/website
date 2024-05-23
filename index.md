@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 home: True
-title: Tania Chacana – type & graphic design
+title: TANIA CHACANA – TYPE & GRAPHIC DESIGN
 ---
 
 # TANIA CHACANA __TYPE & GRAPHIC DESIGN__
