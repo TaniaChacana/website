@@ -12,14 +12,14 @@ EMAIL: <TANIA.CHACANA@GMAIL.COM>
 [BIO](#bio)
 
 TYPEFACES
-[NOVA CAPS](#nova-caps) 
-[ABC NORMAL](#abc-normal) 
-[GIRANDENGO](#girandengo) 
-[UOMO](#uomo) 
-[MILA](#mila) 
-[READER](#reader) 
-[POLCA](#polca) 
-[AINO](#aino)
+[NOVA CAPS](#nova-caps)  
+[ABC NORMAL](#abc-normal)  
+[GIRANDENGO](#girandengo)   
+[UOMO](#uomo)  
+[MILA](#mila)   
+[READER](#reader)  
+[POLCA](#polca)  
+[AINO](#aino)  
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
