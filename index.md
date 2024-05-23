@@ -12,7 +12,15 @@ Email: <tania.chacana@gmail.com>
 Twitter: [@taniachacana](http://twitter.com/taniachacana)  
 [Bio](#bio)
 
-Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Nova Caps](#nova-caps) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
+Typefaces
+[Girandengo](#girandengo) 
+[Uomo](#uomo) 
+[ABC Normal](#abc-normal) 
+[Nova Caps](#nova-caps) 
+[Mila](#mila) 
+[Reader](#reader) 
+[Polca](#polca) 
+[Kuppa](#kuppa)
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
