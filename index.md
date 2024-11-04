@@ -2,22 +2,60 @@
 layout: default
 permalink: /
 home: True
-title: Tania Chacana – type & graphic design
+title: TANIA CHACANA – TYPE & GRAPHIC DESIGN
 ---
 
-# Tania Chacana __type & graphic design__
+# TANIA CHACANA __TYPE & GRAPHIC DESIGN__
 {: #top}
 
-Email: <tania.chacana@gmail.com>  
-Twitter: [@taniachacana](http://twitter.com/taniachacana)  
-[Bio](#bio)
+EMAIL: <TANIA.CHACANA@GMAIL.COM>  
+[BIO](#bio)
 
-Projects: [Girandengo](#girandengo) [Uomo](#uomo) [ABC Normal](#abc-normal) [Nova Caps](#nova-caps) [Mila](#mila) [Reader](#reader) [Polca](#polca) [Kuppa](#kuppa)
+TYPEFACES  
+  [NOVA CAPS](#nova-caps)  
+  [ABC NORMAL](#abc-normal)  
+  [GIRANDENGO](#girandengo)   
+  [UOMO](#uomo)  
+  [MILA](#mila)   
+  [READER](#reader)  
+  [POLCA](#polca)  
+  [AINO](#aino)  
+
+
 
 Licence requests via email, unless stated otherwise below
 {: .menu}
 
-### Girandengo
+### NOVA CAPS
+
+(formerly Italian)
+[available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
+{: .description}
+
+![](/assets/portfolio/portfolio_nova-caps_1.svg)
+![](/assets/portfolio/portfolio_nova-caps_2.svg)
+![](/assets/portfolio/portfolio_nova-caps_3.svg)
+![](/assets/portfolio/portfolio_nova-caps_4.svg)
+{: .previews}
+
+[↑](#top)
+{: .top}
+
+### ABC NORMAL
+
+Published by A.B.C. (Alphabets by Chileans)
+{: .description}
+
+![](/assets/portfolio/portfolio_abc-normal_1.svg)
+![](/assets/portfolio/portfolio_abc-normal_2.svg)
+![](/assets/portfolio/portfolio_abc-normal_3.svg)
+![](/assets/portfolio/portfolio_abc-normal_4.svg)
+{: .previews}
+
+[↑](#top)
+{: .top}
+
+### GIRANDENGO
 
 <!--
 Uncomment to put project description here
@@ -33,9 +71,9 @@ Uncomment to put project description here
 [↑](#top)
 {: .top}
 
-### Uomo
+### UOMO
 
-designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
+Published by A.B.C. (Alphabets by Chileans)
 {: .description}
 
 ![](/assets/portfolio/portfolio_uomo_1.svg)
@@ -47,36 +85,7 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### ABC Normal
-
-designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
-{: .description}
-
-![](/assets/portfolio/portfolio_abc-normal_1.svg)
-![](/assets/portfolio/portfolio_abc-normal_2.svg)
-![](/assets/portfolio/portfolio_abc-normal_3.svg)
-![](/assets/portfolio/portfolio_abc-normal_4.svg)
-{: .previews}
-
-[↑](#top)
-{: .top}
-
-### Nova Caps
-
-(formerly Italian)
-[available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
-{: .description}
-
-![](/assets/portfolio/portfolio_nova-caps_1.svg)
-![](/assets/portfolio/portfolio_nova-caps_2.svg)
-![](/assets/portfolio/portfolio_nova-caps_3.svg)
-![](/assets/portfolio/portfolio_nova-caps_4.svg)
-{: .previews}
-
-[↑](#top)
-{: .top}
-
-### Mila
+### MILA
 
 ![](/assets/portfolio/portfolio_mila_1.svg)
 ![](/assets/portfolio/portfolio_mila_2.svg)
@@ -87,7 +96,7 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Reader
+### READER
 
 ![](/assets/portfolio/portfolio_reader_1.svg)
 ![](/assets/portfolio/portfolio_reader_2.svg)
@@ -98,9 +107,9 @@ designed with Miguel Hernández and published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### Polca
+### POLCA
 
-custom font for a shoe maker’s visual identity
+custom font / visual identity
 {: .description}
 
 ![](/assets/portfolio/portfolio_polca_1.svg)
@@ -112,7 +121,7 @@ custom font for a shoe maker’s visual identity
 [↑](#top)
 {: .top}
 
-### Kuppa
+### AINO
 
 designed at the University of Reading
 {: .description}
@@ -124,10 +133,11 @@ designed at the University of Reading
 ![](/assets/portfolio/portfolio_kuppa_5.svg)
 {: .previews}
 
-### Bio
+### BIO
 
-Tania Chacana is a typeface designer and art director from Santiago (Chile). After studying graphic design at the Universidad Diego Portales, she moved to Argentina to further pursue her fascination with letter shapes at the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
+Typeface designer and art director born in Santiago (Chile). Following her BA in graphic design at the Universidad Diego Portales (Chile), she moved to Argentina to further pursue the postgraduate course in type design at the University of Buenos Aires. Later on, she also completed an MA in type design at the University of Reading. She worked on commercial type and graphic design projects in Europe and South America. Tania has worked with Grilli Type, Rosetta, and Google. She has designed typefaces for Arabic, Latin, Cyrillic, and Greek scripts.
 {: .bio}
+
 
 [↑](#top)
 {: .top}
