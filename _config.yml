@@ -2,7 +2,7 @@
 
 # Setup
 title: Tania Chacana
-description: Type and graphic design portfolio of Tania Chacana
+description: Tania Chacana – type & graphic design portfolio
 url: https://www.taniachacana.com
 baseurl: ""
 
@@ -14,3 +14,8 @@ author:
 
 # Build settings
 markdown: kramdown
+
+# The default sharing image for sharing any page to social media. If a post has
+# a "sharing_image" meta that will be used instead
+# Use a relative path from the root of the project!
+sharing_image: /assets/sharing_image.png

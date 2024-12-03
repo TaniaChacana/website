@@ -12,16 +12,17 @@
     <meta name="keywords" content="{{ site.keywords }}" />
     <meta name="author" content="{{ author }}" />
 
-    <meta property="og:title" content="{{ title }}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{ page.url }}" />
-    <meta property="og:description" content="{{ description }}" />
-    <meta property="og:image" content="{{ sharing | absolute_url }}" />
+    <!-- OG and Twitter -->
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.sharing_image | absolute_url }}" />
 
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ title }}" />
-    <meta name="twitter:description" content="{{ description }}" />
-    <meta name="twitter:image" content="{{ sharing | absolute_url }}" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.sharing_image | absolute_url }}" />
 
     <link rel="stylesheet" href="{{ 'assets/styles.css' | relative_url }}">
 
